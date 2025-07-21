@@ -97,7 +97,7 @@ http://127.0.0.1:8000/careers/
 
 ### Using Postman/Insomnia
 
-1. **Base URL:** `http://127.0.0.1:8000`
+1. **Base URL:** `api-codeleap-production.up.railway.app`
 2. **Content-Type:** `application/json`
 3. **Endpoints:** According to table above
 
@@ -113,6 +113,7 @@ http://127.0.0.1:8000/careers/
    - `DEBUG`: `False`
    - `ALLOWED_HOSTS`: Your Railway domain
 5. **Automatic deploy!**
+   
 
 ## 🔧 Production Settings
 
